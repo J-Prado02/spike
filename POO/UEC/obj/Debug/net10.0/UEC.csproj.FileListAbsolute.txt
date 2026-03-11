@@ -1,0 +1,14 @@
+C:\Users\joaov\Documents\spike\POO\UEC\bin\Debug\net10.0\UEC.exe
+C:\Users\joaov\Documents\spike\POO\UEC\bin\Debug\net10.0\UEC.deps.json
+C:\Users\joaov\Documents\spike\POO\UEC\bin\Debug\net10.0\UEC.runtimeconfig.json
+C:\Users\joaov\Documents\spike\POO\UEC\bin\Debug\net10.0\UEC.dll
+C:\Users\joaov\Documents\spike\POO\UEC\bin\Debug\net10.0\UEC.pdb
+C:\Users\joaov\Documents\spike\POO\UEC\obj\Debug\net10.0\UEC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Documents\spike\POO\UEC\obj\Debug\net10.0\UEC.AssemblyInfoInputs.cache
+C:\Users\joaov\Documents\spike\POO\UEC\obj\Debug\net10.0\UEC.AssemblyInfo.cs
+C:\Users\joaov\Documents\spike\POO\UEC\obj\Debug\net10.0\UEC.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Documents\spike\POO\UEC\obj\Debug\net10.0\UEC.dll
+C:\Users\joaov\Documents\spike\POO\UEC\obj\Debug\net10.0\refint\UEC.dll
+C:\Users\joaov\Documents\spike\POO\UEC\obj\Debug\net10.0\UEC.pdb
+C:\Users\joaov\Documents\spike\POO\UEC\obj\Debug\net10.0\UEC.genruntimeconfig.cache
+C:\Users\joaov\Documents\spike\POO\UEC\obj\Debug\net10.0\ref\UEC.dll
